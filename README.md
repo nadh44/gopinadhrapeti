@@ -1,4 +1,4 @@
-# jyotsna17gupta.github.io
+# gopinadhrapeti.github.io
 My Personal Site.
 
-Can be found at http://jyotsna17gupta.github.io/
+Can be found at https://nadh44.github.io/gopinadhrapeti.github.io/
